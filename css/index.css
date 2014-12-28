@@ -40,8 +40,8 @@
 
 .version.index /* version checker */
 {
-	color: #00000B;
-	background-color: #206839;
+	color: #000005;
+	background-color: #FF4385;
 }
 
 #page
@@ -1882,7 +1882,7 @@
 {
 	z-index: 88;
 	border-color: #000000;
-	padding-bottom: 481px;
+	padding-bottom: 495px;
 	background: #B296C8 url("../images/dot-u1769-fr.png") repeat left top;
 	background-color: rgba(102, 45, 145, 0.5);
 }
@@ -1896,7 +1896,7 @@
 	background-color: #F2F2F2;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 68px;
+	margin-top: 54px;
 	left: 230px;
 }
 
@@ -1915,7 +1915,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 49px;
+	margin-top: 35px;
 	left: 499px;
 }
 
@@ -1928,15 +1928,14 @@
 	background-color: #F2F2F2;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 68px;
+	margin-top: 54px;
 	left: 880px;
 }
 
 #u1133-bw
 {
 	z-index: 88;
-	margin-top: 1px;
-	height: 87px;
+	height: 73px;
 }
 
 #welcome,#education,#extracurriculars,#skills
