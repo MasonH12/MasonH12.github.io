@@ -29,7 +29,7 @@ $form = array(
 		'to' => 'mason@berkeley.edu'
 	),
 	'recaptcha' => array(
-		'private_key' => '6Lfzwf8SAAAAAKb_I2rjibzcTFz655PLHQs7qoTO'
+		'private_key' => '6Lfzwf8SAAAAADROQPLs1_hz4r5AyfjDCb56P0BH'
 	),
 	'fields' => array(
 		'custom_U764' => array(

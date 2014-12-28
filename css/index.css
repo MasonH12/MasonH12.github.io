@@ -40,8 +40,8 @@
 
 .version.index /* version checker */
 {
-	color: #000003;
-	background-color: #A8A3C7;
+	color: #000009;
+	background-color: #DC7F7F;
 }
 
 #page
@@ -59,7 +59,7 @@
 
 #page_position_content
 {
-	margin-bottom: -1px;
+	margin-bottom: -2px;
 }
 
 #pu1769
@@ -173,9 +173,9 @@
 	width: 184px;
 	min-height: 37px;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 35px;
 	font-size: 29px;
-	color: #FFFFFF;
 	text-align: center;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
@@ -239,9 +239,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
-	color: #FFFFFF;
 	text-align: left;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
@@ -302,9 +302,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
-	color: #FFFFFF;
 	text-align: left;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
@@ -365,9 +365,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
-	color: #FFFFFF;
 	text-align: left;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
@@ -428,9 +428,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
-	color: #FFFFFF;
 	text-align: left;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
@@ -491,9 +491,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
-	color: #FFFFFF;
 	text-align: left;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
@@ -554,9 +554,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
-	color: #FFFFFF;
 	text-align: left;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
@@ -633,9 +633,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
-	color: #FFFFFF;
 	text-align: left;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
@@ -838,9 +838,9 @@
 	width: 430px;
 	min-height: 33px;
 	background-color: transparent;
-	line-height: 36px;
-	font-size: 30px;
 	color: #FFFFFF;
+	font-size: 30px;
+	line-height: 36px;
 	letter-spacing: 3px;
 	text-align: center;
 	font-family: days-one, sans-serif;
@@ -972,9 +972,9 @@
 	width: 386px;
 	min-height: 90px;
 	background-color: transparent;
+	color: #000000;
 	line-height: 22px;
 	font-size: 14px;
-	color: #000000;
 	margin-left: 9px;
 	margin-top: 14px;
 	position: relative;
@@ -1063,9 +1063,9 @@
 	width: 386px;
 	min-height: 90px;
 	background-color: transparent;
+	color: #000000;
 	line-height: 22px;
 	font-size: 14px;
-	color: #000000;
 	margin-left: 9px;
 	margin-top: 14px;
 	position: relative;
@@ -1125,9 +1125,9 @@
 	width: 430px;
 	min-height: 44px;
 	background-color: transparent;
-	line-height: 36px;
-	font-size: 30px;
 	color: #FFFFFF;
+	font-size: 30px;
+	line-height: 36px;
 	letter-spacing: 3px;
 	text-align: center;
 	font-family: days-one, sans-serif;
@@ -1401,8 +1401,8 @@
 	width: 1000px;
 	position: relative;
 	left: -100px;
-	padding-top: 18px;
-	padding-bottom: 54px;
+	padding-top: 17px;
+	padding-bottom: 55px;
 }
 
 #pu2037-4
@@ -1418,9 +1418,9 @@
 	width: 430px;
 	min-height: 44px;
 	background-color: transparent;
-	line-height: 36px;
-	font-size: 30px;
 	color: #FFFFFF;
+	font-size: 30px;
+	line-height: 36px;
 	letter-spacing: 3px;
 	text-align: center;
 	font-family: days-one, sans-serif;
@@ -1559,9 +1559,9 @@
 	min-height: 25px;
 	border-color: #999999;
 	background-color: transparent;
+	color: #000000;
 	line-height: 25px;
 	font-size: 18px;
-	color: #000000;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -1606,9 +1606,9 @@
 	min-height: 25px;
 	border-color: #999999;
 	background-color: transparent;
+	color: #000000;
 	line-height: 25px;
 	font-size: 18px;
-	color: #000000;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -1653,9 +1653,9 @@
 	min-height: 25px;
 	border-color: #999999;
 	background-color: transparent;
+	color: #000000;
 	line-height: 25px;
 	font-size: 18px;
-	color: #000000;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -1710,9 +1710,9 @@
 	min-height: 25px;
 	border-color: #999999;
 	background-color: transparent;
+	color: #000000;
 	line-height: 25px;
 	font-size: 18px;
-	color: #000000;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -1826,6 +1826,7 @@
 #u1997-bw
 {
 	z-index: 95;
+	margin-top: 1px;
 	height: 588px;
 }
 
@@ -1853,7 +1854,7 @@
 {
 	z-index: 88;
 	border-color: #000000;
-	padding-bottom: 480px;
+	padding-bottom: 481px;
 	background: #B296C8 url("../images/dot-u1769-fr.png") repeat left top;
 	background-color: rgba(102, 45, 145, 0.5);
 }
@@ -1867,7 +1868,7 @@
 	background-color: #F2F2F2;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 69px;
+	margin-top: 68px;
 	left: 230px;
 }
 
@@ -1877,16 +1878,16 @@
 	width: 332px;
 	min-height: 38px;
 	background-color: transparent;
-	line-height: 36px;
-	font-size: 30px;
 	color: #FFFFFF;
+	font-size: 30px;
+	line-height: 36px;
 	letter-spacing: 3px;
 	text-align: center;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 50px;
+	margin-top: 49px;
 	left: 499px;
 }
 
@@ -1899,14 +1900,15 @@
 	background-color: #F2F2F2;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 69px;
+	margin-top: 68px;
 	left: 880px;
 }
 
 #u1133-bw
 {
 	z-index: 88;
-	height: 88px;
+	margin-top: 1px;
+	height: 87px;
 }
 
 #welcome,#education,#extracurriculars,#skills
@@ -1929,14 +1931,14 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: -604px;
+	margin-top: -603px;
 }
 
 #u749
 {
 	z-index: 2;
 	border-color: #000000;
-	padding-bottom: 535px;
+	padding-bottom: 536px;
 	background: #FBC98E url("../images/dot-u1769-fr.png") repeat left top;
 	background-color: rgba(247, 147, 30, 0.5);
 }
@@ -1959,7 +1961,7 @@
 	background-color: #F2F2F2;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 51px;
+	margin-top: 50px;
 	left: 230px;
 }
 
@@ -1969,16 +1971,16 @@
 	width: 332px;
 	min-height: 38px;
 	background-color: transparent;
-	line-height: 36px;
-	font-size: 30px;
 	color: #FFFFFF;
+	font-size: 30px;
+	line-height: 36px;
 	letter-spacing: 3px;
 	text-align: center;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 32px;
+	margin-top: 31px;
 	left: 499px;
 }
 
@@ -1991,14 +1993,14 @@
 	background-color: #F2F2F2;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 51px;
+	margin-top: 50px;
 	left: 880px;
 }
 
 #u749-bw
 {
 	z-index: 2;
-	height: 70px;
+	height: 69px;
 }
 
 #widgetu753
@@ -2008,7 +2010,7 @@
 	height: 492px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 74px;
+	margin-top: 73px;
 	left: 230px;
 }
 
@@ -2033,9 +2035,9 @@
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: transparent;
-	line-height: 26px;
-	font-size: 12px;
 	color: #000000;
+	font-size: 12px;
+	line-height: 26px;
 	letter-spacing: 0px;
 	text-align: center;
 	font-family: days-one, sans-serif;
@@ -2053,9 +2055,9 @@
 	border-color: #DDDDDD;
 	background-color: #FFFFFF;
 	padding: 6px;
+	color: #C4C4C4;
 	line-height: 26px;
 	font-size: 13px;
-	color: #C4C4C4;
 	text-align: center;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
@@ -2137,9 +2139,9 @@
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: transparent;
+	color: #000000;
 	line-height: 26px;
 	font-size: 12px;
-	color: #000000;
 	text-align: center;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
@@ -2156,9 +2158,9 @@
 	border-color: #DDDDDD;
 	background-color: #FFFFFF;
 	padding: 6px;
+	color: #C4C4C4;
 	line-height: 26px;
 	font-size: 13px;
-	color: #C4C4C4;
 	text-align: center;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
@@ -2232,8 +2234,8 @@
 {
 	color: #000000;
 	text-align: center;
-	font-size: 14px;
 	line-height: 1;
+	font-size: 14px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	font-style: normal;
@@ -2249,9 +2251,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
+	color: #FF0000;
 	line-height: 14px;
 	font-size: 12px;
-	color: #FF0000;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2264,8 +2266,8 @@
 {
 	color: #D7244C;
 	text-align: center;
-	font-size: 14px;
 	line-height: 1;
+	font-size: 14px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	font-style: normal;
@@ -2281,9 +2283,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
+	color: #00FF00;
 	line-height: 12px;
 	font-size: 12px;
-	color: #00FF00;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2369,9 +2371,9 @@
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: transparent;
+	color: #000000;
 	line-height: 26px;
 	font-size: 12px;
-	color: #000000;
 	text-align: center;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
@@ -2399,9 +2401,9 @@
 	border-color: #DDDDDD;
 	background-color: #FFFFFF;
 	padding: 6px;
+	color: #C4C4C4;
 	line-height: 26px;
 	font-size: 13px;
-	color: #C4C4C4;
 	text-align: center;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
@@ -2503,9 +2505,9 @@
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: transparent;
+	color: #000000;
 	line-height: 26px;
 	font-size: 12px;
-	color: #000000;
 	text-align: center;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
@@ -2522,9 +2524,9 @@
 	border-color: #DDDDDD;
 	background-color: #FFFFFF;
 	padding: 6px;
+	color: #C4C4C4;
 	line-height: 26px;
 	font-size: 13px;
-	color: #C4C4C4;
 	text-align: center;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
@@ -2615,9 +2617,9 @@
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: transparent;
-	line-height: 26px;
-	font-size: 12px;
 	color: #000000;
+	font-size: 12px;
+	line-height: 26px;
 	letter-spacing: 0px;
 	text-align: center;
 	font-family: days-one, sans-serif;
@@ -2652,9 +2654,9 @@
 	border-color: #DDDDDD;
 	background-color: #FFFFFF;
 	padding: 6px;
+	color: #C4C4C4;
 	line-height: 26px;
 	font-size: 13px;
-	color: #C4C4C4;
 	text-align: center;
 	font-family: days-one, sans-serif;
 	font-weight: 400;
