@@ -25,8 +25,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'mason@berkeley.edu',
-		'to' => 'mason@berkeley.edu'
+		'from' => 'contact@masonh.me',
+		'to' => 'contact@masonh.me'
 	),
 	'recaptcha' => array(
 		'private_key' => '6Lfzwf8SAAAAADROQPLs1_hz4r5AyfjDCb56P0BH'
