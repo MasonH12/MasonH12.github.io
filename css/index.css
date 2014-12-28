@@ -40,8 +40,8 @@
 
 .version.index /* version checker */
 {
-	color: #00001E;
-	background-color: #4191AB;
+	color: #000003;
+	background-color: #A8A3C7;
 }
 
 #page
@@ -838,9 +838,9 @@
 	width: 430px;
 	min-height: 33px;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	color: #FFFFFF;
-	line-height: 36px;
 	letter-spacing: 3px;
 	text-align: center;
 	font-family: days-one, sans-serif;
@@ -1125,9 +1125,9 @@
 	width: 430px;
 	min-height: 44px;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	color: #FFFFFF;
-	line-height: 36px;
 	letter-spacing: 3px;
 	text-align: center;
 	font-family: days-one, sans-serif;
@@ -1418,9 +1418,9 @@
 	width: 430px;
 	min-height: 44px;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	color: #FFFFFF;
-	line-height: 36px;
 	letter-spacing: 3px;
 	text-align: center;
 	font-family: days-one, sans-serif;
@@ -1877,9 +1877,9 @@
 	width: 332px;
 	min-height: 38px;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	color: #FFFFFF;
-	line-height: 36px;
 	letter-spacing: 3px;
 	text-align: center;
 	font-family: days-one, sans-serif;
@@ -1969,9 +1969,9 @@
 	width: 332px;
 	min-height: 38px;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	color: #FFFFFF;
-	line-height: 36px;
 	letter-spacing: 3px;
 	text-align: center;
 	font-family: days-one, sans-serif;
@@ -2033,9 +2033,9 @@
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: transparent;
+	line-height: 26px;
 	font-size: 12px;
 	color: #000000;
-	line-height: 26px;
 	letter-spacing: 0px;
 	text-align: center;
 	font-family: days-one, sans-serif;
@@ -2232,8 +2232,8 @@
 {
 	color: #000000;
 	text-align: center;
-	line-height: 1;
 	font-size: 14px;
+	line-height: 1;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	font-style: normal;
@@ -2264,8 +2264,8 @@
 {
 	color: #D7244C;
 	text-align: center;
-	line-height: 1;
 	font-size: 14px;
+	line-height: 1;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	font-style: normal;
@@ -2615,9 +2615,9 @@
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: transparent;
+	line-height: 26px;
 	font-size: 12px;
 	color: #000000;
-	line-height: 26px;
 	letter-spacing: 0px;
 	text-align: center;
 	font-family: days-one, sans-serif;
