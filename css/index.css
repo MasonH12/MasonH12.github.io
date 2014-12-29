@@ -40,8 +40,8 @@
 
 .version.index /* version checker */
 {
-	color: #000005;
-	background-color: #FF4385;
+	color: #0000FD;
+	background-color: #DA9D49;
 }
 
 #page
@@ -59,7 +59,7 @@
 
 #page_position_content
 {
-	margin-bottom: -2px;
+	margin-bottom: -1px;
 }
 
 #pu1769
@@ -1958,14 +1958,14 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: -603px;
+	margin-top: -604px;
 }
 
 #u749
 {
 	z-index: 2;
 	border-color: #000000;
-	padding-bottom: 536px;
+	padding-bottom: 535px;
 	background: #FBC98E url("../images/dot-u1769-fr.png") repeat left top;
 	background-color: rgba(247, 147, 30, 0.5);
 }
@@ -1988,7 +1988,7 @@
 	background-color: #F2F2F2;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 50px;
+	margin-top: 51px;
 	left: 230px;
 }
 
@@ -2007,7 +2007,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 31px;
+	margin-top: 32px;
 	left: 499px;
 }
 
@@ -2020,14 +2020,14 @@
 	background-color: #F2F2F2;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 50px;
+	margin-top: 51px;
 	left: 880px;
 }
 
 #u749-bw
 {
 	z-index: 2;
-	height: 69px;
+	height: 70px;
 }
 
 #widgetu753
@@ -2037,7 +2037,7 @@
 	height: 492px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 74px;
+	margin-top: 75px;
 	left: 230px;
 }
 
