@@ -1,7 +1,7 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1422864698545">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1422909755489">
   <folder name="css">
     <file name="site_global.css" crc="3909394991"/>
-    <file name="index.css" crc="432680128" ref="index"/>
+    <file name="index.css" crc="363754222" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="mason-holt-s-resume.pdf" crc="4126416417" mt="1422861241000"/>
@@ -35,5 +35,5 @@
     </folder>
     <file name="index.html" crc="513424607" mt="1422854341803" redirect="false"/>
   </folder>
-  <file name="index.html" crc="374458979" mt="1422864655680" redirect="true"/>
+  <file name="index.html" crc="19183193" mt="1422909699205" redirect="true"/>
 </manifest>
